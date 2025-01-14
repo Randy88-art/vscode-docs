@@ -7,7 +7,7 @@ PageTitle: Visual Studio Code User Interface
 DateApproved: 12/11/2024
 MetaDescription: A quick overview of the Visual Studio Code user interface. Learn about the editor, window management, and special UI to handle source control, extension management, full text search and more.
 ---
-# User interface
+microsoft/vscode-docs/docs/copilot# User interface
 
 At its heart, Visual Studio Code is a code editor. Like many other code editors, VS Code adopts a common user interface and layout of an explorer on the left, showing all of the files and folders you have access to, and an editor on the right, showing the content of the files you have opened.
 
